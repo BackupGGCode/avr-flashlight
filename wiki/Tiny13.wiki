@@ -1,0 +1,2 @@
+#summary One-sentence summary of this page.
+[http://www.atmel.com Atmel's] [http://www.avrfreaks.net/index.php?module=Freaks%20Devices&func=displayDev&objectid=74 AtTiny13 uC] [http://www.atmel.com/dyn/resources/prod_documents/doc2535.pdf Datasheet]
