@@ -1,1 +1,3 @@
 #summary SmartPD interface for Nitecore D10 / EX10 flashlights
+
+See [http://www.candlepowerforums.com/vb/showthread.php?t=203726] for current functionality
